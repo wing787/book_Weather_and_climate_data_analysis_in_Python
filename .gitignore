@@ -1,3 +1,7 @@
+# Original
+output/
+input/
+
 # For MacOS
 .DS_Store
 .AppleDouble
